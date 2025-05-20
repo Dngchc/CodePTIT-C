@@ -1,1 +1,1 @@
-# CodePTIT-Cplusplus
+# CodePTIT-C
